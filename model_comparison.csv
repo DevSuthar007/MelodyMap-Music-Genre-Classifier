@@ -1,0 +1,5 @@
+Algorithm,Accuracy,Precision,Recall,F1-Score
+SVM,0.765,0.768943,0.765,0.764021
+Random Forest,0.69,0.691141,0.69,0.686874
+KNN,0.685,0.703244,0.685,0.685148
+Decision Tree,0.525,0.555331,0.525,0.527583

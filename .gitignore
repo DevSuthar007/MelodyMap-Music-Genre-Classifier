@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+.DS_Store
+# dataset is not redistributed here - download it from Kaggle (see README)
+data/*.csv
+data/*.wav
+data/genres_original/
+data/images_original/
